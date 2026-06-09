@@ -11,12 +11,12 @@
 
 \title{Módulo 1 Mecatrónica: Integración de Marcos Ágiles y Optimización mediante Lean Six Sigma}
 
-\author{Pedro Ortiz\inst{1}\orcidID{ }}
+\author{Ignacio Kaiser\inst{1}\orcidID{ }}
 
-\authorrunning{P. Ortiz}
+\authorrunning{I. Kaiser}
 
 \institute{Universidad Nacional de Cuyo, Instituto de Ingeniería Mecatrónica POBOX 5502 \\
-\email{peter.ortiz03@gmail.com - tomasgarcia@gmail.com}\\
+\email{kaiserignacio11@gmail.com - tomasgarcia@gmail.com}\\
 \url{https://ingenieria.uncuyo.edu.ar/}}
 
 \maketitle
